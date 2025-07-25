@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRELIM_LAB2(IT_Elective_Ramos)", "PRELIM_LAB2(IT_Elective_Ramos)\PRELIM_LAB2(IT_Elective_Ramos).csproj", "{025A9356-6209-4945-A33B-FA4524F3825F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{025A9356-6209-4945-A33B-FA4524F3825F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025A9356-6209-4945-A33B-FA4524F3825F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025A9356-6209-4945-A33B-FA4524F3825F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025A9356-6209-4945-A33B-FA4524F3825F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E85F3B0-2FD8-441A-8338-4C1F9B32491C}
+	EndGlobalSection
+EndGlobal

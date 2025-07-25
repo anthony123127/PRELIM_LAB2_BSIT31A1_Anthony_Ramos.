@@ -1,0 +1,22 @@
+﻿@model Tuple< PRELIM_LAB2_IT_Elective_Ramos_.Models.book,  PRELIM_LAB2_IT_Elective_Ramos_.Models.customer>
+
+@{
+    ViewBag.Title = "Book and Customer Information";
+   
+}
+
+<div style="background-color: #E6E6FA; padding: 30px;">
+<center><h2>Book Details</h2></center>
+<ul>
+    <li><strong>ID:</strong> @Model.Item1.Id</li>
+    <li><strong>Title:</strong> @Model.Item1.Title</li>
+    <li><strong>Author:</strong> @Model.Item1.Author</li>
+</ul>
+
+<center><h2>Customer Details</h2></center>
+<ul>
+    <li><strong>Title:</strong> @Model.Item2.Title</li>
+    <li><strong>Full Name:</strong> @Model.Item2.FullName</li>
+    <li><strong>Email:</strong> @Model.Item2.Email</li>
+</ul>
+</div>
